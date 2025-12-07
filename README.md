@@ -8,7 +8,7 @@ My custom Macropad made for Hack Club's Blueprint program! I used this project t
 
 ## CAD
 I used Autodesk Fusion 360 to create my case since that's what I already knew how to use!
-There are two main pieces to the case: the base, which holds the PCB, and the lid, which covers most of the PCB but allows the needed parts to show.
+There are two main pieces to the case: the base, which holds the PCB, and the lid, which covers most of the PCB but leaves the needed parts uncovered.
 <table>
   <tr>
     <td>Full case<br><img width="1154" height="728" alt="full" src="https://github.com/user-attachments/assets/0cb36bc9-05ec-4770-b978-a2bf54ac25d7" /></td>

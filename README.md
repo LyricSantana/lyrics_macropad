@@ -36,7 +36,7 @@ Here's what each key does:
 - Key 3: Mouse Middle Click
 - Key 4: Alt + F4
 - Key 5: Super + L
-- Rotary Encoder Rotate: Volumer Up/Down
+- Rotary Encoder Rotate: Volume Up/Down
 - Rotary Encoder Click: Toggle Mute
 
 ## BOM
@@ -45,13 +45,13 @@ Here's what each key does:
 - 5x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
-- 1x 0.91 inch OLED display
+- 1x 0.91-inch OLED display
 - 1x EC11 Rotary Encoder
 - Case (Lid and Base)
 
 ## Information About my Project
 ### Inspiration
-I've always wanted a Macropad that I could program each individual component to do whatever I wanted to do. I use keybinds a LOT in most programs I use, so my hope is to figure out which ones I use most and modify the code to do what I need. I added the OLED screen last minute because I wanted to add whatever little silly image I wanted onto there! Overall, creating this was super fun and I learned more than I was expecting!
+I've always wanted a Macropad that I could program each individual component to do whatever I wanted to do. I use keybinds a LOT in most programs I use, so I hope to figure out which ones I use most and modify the code to do what I need. I added the OLED screen last minute because I wanted to add whatever silly image I wanted onto there! Overall, creating this was super fun, and I learned more than I was expecting!
 
 ### Challenges
-I had previous experience with Fusion 360, but I had never touched KiCad prior to starting this project. The learning curve was pretty steep for me, but once I got the hang of it, it was a lot better! I'm sure that there are lots of things I could have done better in my PCB design, so I would want to continue to do more research and learn best practices. Overall it was still very fun, despite having to watch multiple tutorials for KiCad, and I learned a lot about the program!
+I had previous experience with Fusion 360, but I had never touched KiCad prior to starting this project. The learning curve was pretty steep for me, but once I got the hang of it, it was a lot better! I'm sure that there are lots of things I could have done better in my PCB design, so I would want to continue to do more research and learn best practices. Overall, it was still very fun, despite having to watch multiple tutorials for KiCad, and I learned a lot about the program!

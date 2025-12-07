@@ -11,12 +11,16 @@ I used Autodesk Fusion 360 to create my case since that's what I already knew ho
 There are two main pieces to the case: the base, which holds the PCB, and the lid, which covers most of the PCB but allows the needed parts to show.
 <table>
   <tr>
-    <td>Full case<br><img width="1226" height="760" alt="assembled" src="https://github.com/user-attachments/assets/91e03d0a-6543-45d2-9625-8b6d8be95963" /></td>
-    <td>Base<br><img width="1162" height="734" alt="base" src="https://github.com/user-attachments/assets/c4132cc8-34e8-4abb-898f-7f67f5f5f628" /></td>
-    <td>Lid <br><img width="1134" height="706" alt="lid" src="https://github.com/user-attachments/assets/cce57d92-a0a5-4c94-b690-91df43910386" />
-</td>
+    <td>Full case<br><img width="1154" height="728" alt="full" src="https://github.com/user-attachments/assets/0cb36bc9-05ec-4770-b978-a2bf54ac25d7" /></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Base<br><img width="1162" height="734" alt="base" src="https://github.com/user-attachments/assets/c4132cc8-34e8-4abb-898f-7f67f5f5f628" /></td>
+    <td>Lid <br><img width="946" height="576" alt="newlid" src="https://github.com/user-attachments/assets/4ffc97ef-6ab2-4181-b33b-fff93b68fe75" /></td>
+  </tr>
+</table>
+
 
 ## PCB
 My PCB was designed using KiCad, which was my first time using the software. 

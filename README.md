@@ -33,10 +33,10 @@ My PCB was designed using KiCad, which was my first time using the software.
 </table>
 
 ## Firmware
-My Macropad used KMK firmware for everything. This was my first time using this, and I wasn't able to test it while writing it, so I used a few snippets of code online for a bit of help, but most was written by me.
+My Macropad used KMK firmware for everything. This was my first time using this, and I wasn't able to test it while writing it, so I used a few snippets of code online for a bit of help, but most was written by me. I plan to change what each key does once I'm able to do more testing.
 Here's what each key does:
 - Key 1: Alt + Tab
-- Key 2: CTRL + Tab
+- Key 2: Ctrl + Tab
 - Key 3: Mouse Middle Click
 - Key 4: Alt + F4
 - Key 5: Super + L
@@ -49,9 +49,10 @@ Here's what each key does:
 - 5x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
-- 1x 0.91-inch OLED display
+- 1x 0.91-inch 128x32 OLED display
 - 1x EC11 Rotary Encoder
-- Case (Lid and Base)
+- 1x Lid (lid.stl)
+- 1x Base (base.stl)
 
 ## Information About my Project
 ### Inspiration

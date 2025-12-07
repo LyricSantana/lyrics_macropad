@@ -51,8 +51,8 @@ Here's what each key does:
 - 4x M3 Heatset
 - 1x 0.91-inch 128x32 OLED display
 - 1x EC11 Rotary Encoder
-- 1x Lid (lid.stl)
-- 1x Base (base.stl)
+- 1x Lid (macropad_lid.stl)
+- 1x Base (macropad_base.stl)
 
 ## Information About my Project
 ### Inspiration

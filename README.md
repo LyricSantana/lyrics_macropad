@@ -6,6 +6,9 @@ My custom Macropad made for Hack Club's Blueprint program! I used this project t
 - EC11 Rotary Encoder
 - 0.91" 128x32 OLED Display that can be used to display and static BMP image!
 
+## Video Demo
+https://youtu.be/G0M81F9X2f0
+
 ## CAD
 I used Autodesk Fusion 360 to create my case since that's what I already knew how to use!
 There are two main pieces to the case: the base, which holds the PCB, and the lid, which covers most of the PCB but leaves the needed parts uncovered.

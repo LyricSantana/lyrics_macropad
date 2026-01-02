@@ -6,6 +6,10 @@ My custom Macropad made for Hack Club's Blueprint program! I used this project t
 - EC11 Rotary Encoder
 - 0.91" 128x32 OLED Display that can be used to display and static BMP image!
 
+## Completed Macropad
+![unnamed](https://github.com/user-attachments/assets/ee5d821d-3349-47f1-881e-7c906c604b20)
+
+
 ## Video Demo
 https://youtu.be/G0M81F9X2f0
 

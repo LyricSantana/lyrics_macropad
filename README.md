@@ -68,6 +68,9 @@ Here's what each key does:
 - 1x Base (macropad_base.stl)
 
 ## Information About my Project
+### Building
+So I have had a soldering iron, but haven't used it in a while, lol, so I had to watch a couple of tutorials to give myself a refresher. After some practice on some scrap PCB boards, I soldered the Seeed XIAO RP2040, 5 switches, rotary encoder, and OLED screen to the PCB. After checking connections with a multimeter, everything seemed to be wired correctly. Afterwards, I 3D printed my case and knob, and it was done! I had so much fun designing, building, and programming this and learn a lot from it!
+
 ### Inspiration
 I've always wanted a Macropad that I could program each individual component to do whatever I wanted to do. I use keybinds a LOT in most programs I use, so I hope to figure out which ones I use most and modify the code to do what I need. I added the OLED screen last minute because I wanted to add whatever image I wanted onto there! Overall, creating this was super fun, and I learned more than I was expecting!
 

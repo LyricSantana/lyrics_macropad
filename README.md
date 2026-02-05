@@ -10,7 +10,10 @@ https://youtu.be/G0M81F9X2f0?si=TFrZOab-gzS2jKHI
 - 0.91" 128x32 OLED Display that can be used to display and static BMP image!
 
 ## Completed Macropad
+
 ![unnamed](https://github.com/user-attachments/assets/ee5d821d-3349-47f1-881e-7c906c604b20)
+![unnamed](https://github.com/user-attachments/assets/2cae2928-3eac-4a35-a6ed-baeb535e08c2)
+![IMG_0750](https://github.com/user-attachments/assets/80988ad4-b74d-48a3-a3d8-5145eb901140)
 
 
 ## Video Demo
